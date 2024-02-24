@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Kay+Pho+Du:wght@500&family=Lilita+One&family=Oswald:wght@600&display=swap');
+
+#foot-div{
+    box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.500);
+    
+    border-radius: 13px;
+    height: 70px;
+    background: linear-gradient(135deg, #3498db, #8e44ad);
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+#site{
+    font-size: 40px;
+    color: rgb(55, 195, 255);
+    /* text-decoration: none; */
+    font-family: Lilita One;
+    /* margin-top: 10px; */
+    
+}

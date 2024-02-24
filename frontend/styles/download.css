@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Kay+Pho+Du:wght@500&family=Lato&family=Lilita+One&family=Oswald:wght@600&display=swap');
+
+#thumb{
+    width: 480px;
+    height: 270px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#title{
+    font-family: Agbalumo;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#loading_gif{
+    max-width: 80%;
+    max-height: 80%;
+
+}
+
+#center_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#combobox{
+    position: absolute;
+    width: 120px;
+    height: 30px;
+    margin-left: 530px;
+    margin-top: 230px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    color: #333;
+    font-size: 16px;
+    outline: none; /* varsayılan odak çerçevesini kaldırır */
+    transition: border-color 0.2s;
+}
+
+#combobox:hover {
+    border-color: #666;
+}
+
+.yukari{
+    position: absolute;
+    margin-top: 430px;
+    margin-left: 27%;
+}

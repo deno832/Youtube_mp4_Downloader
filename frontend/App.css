@@ -1,0 +1,16 @@
+#background {
+    background-image: url('./photos/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+* {
+    margin: 0cm;
+    padding: 0;
+  }
+
+#baslik{
+    font-size: 40px;
+}
